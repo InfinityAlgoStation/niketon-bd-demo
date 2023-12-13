@@ -22,7 +22,7 @@ function App() {
     <>
       <div className="wrapper d-flex align-items-center">
         <video className="background-video" autoPlay muted loop>
-          <source src="/public/bg_video.mp4" type="video/mp4" />
+          <source src="/bg_video.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
 
@@ -69,7 +69,7 @@ function App() {
                   <Slider {...settings}>
                     <div className={"d-flex justify-content-center"}>
                       <img
-                        src="/public/s1.png"
+                        src="/s1.png"
                         className="img-fluid"
                         width={"300px"}
                         alt=""
@@ -78,7 +78,7 @@ function App() {
                     </div>
                     <div className={"d-flex justify-content-center"}>
                       <img
-                        src="/public/s2.png"
+                        src="/s2.png"
                         className="img-fluid"
                         alt=""
                         width={"300px"}
@@ -86,7 +86,7 @@ function App() {
                     </div>
                     <div className={"d-flex justify-content-center"}>
                       <img
-                        src="/public/s3.png"
+                        src="/s3.png"
                         className="img-fluid"
                         alt=""
                         width={"300px"}
@@ -94,7 +94,7 @@ function App() {
                     </div>
                     <div className={"d-flex justify-content-center"}>
                       <img
-                        src="/public/s4.png"
+                        src="/s4.png"
                         className="img-fluid"
                         alt=""
                         width={"300px"}
@@ -102,7 +102,7 @@ function App() {
                     </div>
                     <div className={"d-flex justify-content-center"}>
                       <img
-                        src="/public/s5.png"
+                        src="/s5.png"
                         className="img-fluid"
                         alt=""
                         width={"300px"}
@@ -122,7 +122,7 @@ function App() {
                 target="blank"
               >
                 <img
-                  src="/public/playstore1.png"
+                  src="/playstore1.png"
                   width={"200px"}
                   alt=""
                   srcSet=""
